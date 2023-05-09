@@ -5,7 +5,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.security.NoSuchAlgorithmException;
 
-public class Main {
+public class MainActivitat4{
     public static void main(String[] args) throws IOException {
         System.out.println("ejercicio 1.5");
        SecretKey skey1;
